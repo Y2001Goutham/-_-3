@@ -1,0 +1,29 @@
+
+*{
+	background-color:black;
+	color:#fff;
+}
+
+.container{
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	margin-top:200px;
+	border-color:cyan;
+}
+input{
+	border-color:cyan;
+	font-size:20px;
+}
+.button{
+	background-color:blue;
+	color:#fff;
+	height:auto;
+	width:200px;
+	border:none;
+	padding:10px;
+	border-radius:10px;
+}
+h1 {
+	font-family:"Times New Roman", Times, serif;
+	/*background-color:#AF94F8*/
+}
